@@ -1,1 +1,2 @@
 # metacoin
+## Heading 2
